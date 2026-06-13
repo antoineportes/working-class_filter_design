@@ -1,0 +1,11 @@
+body, html
+{
+  height:  100%;
+  margin:  0;
+  padding:  0;
+  top:  0;
+  /* font??? */
+  overflow-y:  auto;
+  scroll-snap-type:  y proximity;
+  scroll-behavior:  smooth;
+}
